@@ -1,0 +1,450 @@
+2024-02-26 10:22:54,331 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:ba292a26-9735-489c-a960-1192736d5ec4
+2024-02-26 10:22:54,342 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 10:22:54,523 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:ba292a26-9735-489c-a960-1192736d5ec4Status:yErrorCode:null
+2024-02-26 10:46:30,492 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:0080e34e-73c9-4553-9e44-4f6251e894a2
+2024-02-26 10:46:30,495 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 10:46:30,610 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:0080e34e-73c9-4553-9e44-4f6251e894a2Status:yErrorCode:null
+2024-02-26 10:46:54,443 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:0080e34e-73c9-4553-9e44-4f6251e894a2
+2024-02-26 10:46:54,447 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 10:46:55,097 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:0080e34e-73c9-4553-9e44-4f6251e894a2--Status:--Y--ErrorCode:--null
+2024-02-26 11:03:56,111 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:5486b3c0-681c-4361-9534-a4234745171c
+2024-02-26 11:03:56,114 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:03:56,228 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:5486b3c0-681c-4361-9534-a4234745171cStatus:yErrorCode:null
+2024-02-26 11:04:16,349 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:5486b3c0-681c-4361-9534-a4234745171c
+2024-02-26 11:04:16,352 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:04:16,602 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:5486b3c0-681c-4361-9534-a4234745171cStatus:yErrorCode:null
+2024-02-26 11:14:40,077 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:4cdc47b7-ca22-4030-a847-5b3bad9efb27
+2024-02-26 11:14:40,080 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:14:40,291 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:4cdc47b7-ca22-4030-a847-5b3bad9efb27Status:yErrorCode:null
+2024-02-26 11:14:43,731 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:7711b603-345a-4aa7-9da2-17d20a5b3e5e
+2024-02-26 11:14:43,733 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:14:44,017 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:7711b603-345a-4aa7-9da2-17d20a5b3e5eStatus:yErrorCode:null
+2024-02-26 11:15:41,154 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:e43eb02e-2583-49fa-9144-d948c4aaf659
+2024-02-26 11:15:41,157 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:15:41,496 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:e43eb02e-2583-49fa-9144-d948c4aaf659Status:nErrorCode:300
+2024-02-26 11:17:49,756 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:c8f15cf7-0e71-4d66-83a1-dce1e9fde814
+2024-02-26 11:17:49,759 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:17:50,113 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:c8f15cf7-0e71-4d66-83a1-dce1e9fde814Status:nErrorCode:300
+2024-02-26 11:18:16,203 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:eb3978e3-eb74-4781-a4f0-3a4d80317450
+2024-02-26 11:18:16,206 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:18:16,587 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:eb3978e3-eb74-4781-a4f0-3a4d80317450Status:nErrorCode:300
+2024-02-26 11:18:46,251 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:123250e9-bf55-4548-93a8-523cec509c96
+2024-02-26 11:18:46,253 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:18:46,582 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:123250e9-bf55-4548-93a8-523cec509c96Status:yErrorCode:null
+2024-02-26 11:25:44,478 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:b2b4d221-12d0-48d5-9aeb-a214c2524396
+2024-02-26 11:25:44,480 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:25:44,588 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:b2b4d221-12d0-48d5-9aeb-a214c2524396Status:yErrorCode:null
+2024-02-26 11:29:51,360 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:7578fa92-b29f-404c-b123-c13e9298c73b
+2024-02-26 11:29:51,362 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:29:56,399 [INFO ] [CallRestService.java:58] - Error in Class_Name: CallRestService Method_Name: callRestMethod for REST Connection
+org.springframework.web.client.ResourceAccessException: I/O error on POST request for "https://rdpreprod.uidai.gov.in/uidauthserver/2.5/STGCEG0001/0/0/MIVw1R8yNLqmHdDwKVDYGiolz4yfSILMw2mfcAzv0cXmXZqKSSYl2h8": Read timed out; nested exception is java.net.SocketTimeoutException: Read timed out
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:607)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:557)
+	at org.springframework.web.client.RestTemplate.postForObject(RestTemplate.java:357)
+	at in.cdac.aadhaarservices.invokews.CallRestService.callRestMethod(CallRestService.java:46)
+	at in.cdac.aadhaarservices.services.AuthRequestProcessorASA.callWebService(AuthRequestProcessorASA.java:487)
+	at in.cdac.aadhaarservices.services.AuthRequestProcessorASA.processReq(AuthRequestProcessorASA.java:206)
+	at in.cdac.aadhaarservices.maincontroller.FrontController.authRequestSync(FrontController.java:104)
+	at sun.reflect.GeneratedMethodAccessor138.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:817)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:731)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:968)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:870)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:844)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1732)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:475)
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:469)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:69)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1228)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:75)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:915)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:153)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:91)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:53)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:596)
+	... 47 more
+2024-02-26 11:29:56,405 [INFO ] [AuthRequestProcessorASA.java:417] - Error returned in Class Name:AuthRequestProcessor Method Name: errorResponse:Txn:7578fa92-b29f-404c-b123-c13e9298c73bErrorCode:ASA-C-012ErrorMessage:SOCKET_TIMEOUT_UIDAI
+2024-02-26 11:31:15,979 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:cd9cf183-753e-4a23-9c5e-cf7046afd1db
+2024-02-26 11:31:15,985 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:31:21,029 [INFO ] [CallRestService.java:58] - Error in Class_Name: CallRestService Method_Name: callRestMethod for REST Connection
+org.springframework.web.client.ResourceAccessException: I/O error on POST request for "https://preprd.uidai.gov.in/uidkycserver/kyc/2.5/STGCEG0001/0/0/MGjzzSzkLmQjiN4rwue2o3XpAzbgboDumj48d9F8jVf7dG-oC6jUsGg": Read timed out; nested exception is java.net.SocketTimeoutException: Read timed out
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:607)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:557)
+	at org.springframework.web.client.RestTemplate.postForObject(RestTemplate.java:357)
+	at in.cdac.aadhaarservices.invokews.CallRestService.callRestMethod(CallRestService.java:46)
+	at in.cdac.aadhaarservices.services.KycRequestProcessorASA.callWebService(KycRequestProcessorASA.java:613)
+	at in.cdac.aadhaarservices.services.KycRequestProcessorASA.processReq(KycRequestProcessorASA.java:214)
+	at in.cdac.aadhaarservices.maincontroller.FrontController.kycRequestSync(FrontController.java:137)
+	at sun.reflect.GeneratedMethodAccessor131.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:817)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:731)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:968)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:870)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:844)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1732)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:475)
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:469)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:69)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1228)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:75)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:915)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:153)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:91)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:53)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:596)
+	... 47 more
+2024-02-26 11:31:21,040 [INFO ] [KycRequestProcessorASA.java:592] - Error returned in Class Name:KycRequestProcessor Method Name: errorResponse:--Txn:--UKC:cd9cf183-753e-4a23-9c5e-cf7046afd1db--ErrorCode:--ASA-C-012--ErrorCode:--SOCKET_TIMEOUT_UIDAI
+2024-02-26 11:35:00,766 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:c4a0372a-da84-4bc4-8f56-110054f372a1
+2024-02-26 11:35:00,768 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:35:01,021 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:c4a0372a-da84-4bc4-8f56-110054f372a1Status:nErrorCode:527
+2024-02-26 11:37:19,703 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:052694a1-8c48-4bab-9fb9-6ed9bb1e72ff
+2024-02-26 11:37:19,706 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:37:24,746 [INFO ] [CallRestService.java:58] - Error in Class_Name: CallRestService Method_Name: callRestMethod for REST Connection
+org.springframework.web.client.ResourceAccessException: I/O error on POST request for "https://preprd.uidai.gov.in/uidkycserver/kyc/2.5/STGCEG0001/0/0/MGjzzSzkLmQjiN4rwue2o3XpAzbgboDumj48d9F8jVf7dG-oC6jUsGg": Read timed out; nested exception is java.net.SocketTimeoutException: Read timed out
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:607)
+	at org.springframework.web.client.RestTemplate.execute(RestTemplate.java:557)
+	at org.springframework.web.client.RestTemplate.postForObject(RestTemplate.java:357)
+	at in.cdac.aadhaarservices.invokews.CallRestService.callRestMethod(CallRestService.java:46)
+	at in.cdac.aadhaarservices.services.KycRequestProcessorASA.callWebService(KycRequestProcessorASA.java:613)
+	at in.cdac.aadhaarservices.services.KycRequestProcessorASA.processReq(KycRequestProcessorASA.java:214)
+	at in.cdac.aadhaarservices.maincontroller.FrontController.kycRequestSync(FrontController.java:137)
+	at sun.reflect.GeneratedMethodAccessor131.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:221)
+	at org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:136)
+	at org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:110)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:817)
+	at org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:731)
+	at org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:85)
+	at org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:959)
+	at org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:893)
+	at org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:968)
+	at org.springframework.web.servlet.FrameworkServlet.doPost(FrameworkServlet.java:870)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:681)
+	at org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:844)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:764)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:227)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:53)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.filters.HttpHeaderSecurityFilter.doFilter(HttpHeaderSecurityFilter.java:126)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:189)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:162)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:197)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:540)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.apache.catalina.valves.AbstractAccessLogValve.invoke(AbstractAccessLogValve.java:687)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:357)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:382)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:895)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1732)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.lang.Thread.run(Thread.java:748)
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.socketRead(SocketInputStream.java:116)
+	at java.net.SocketInputStream.read(SocketInputStream.java:171)
+	at java.net.SocketInputStream.read(SocketInputStream.java:141)
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:475)
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:469)
+	at sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:69)
+	at sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1228)
+	at sun.security.ssl.SSLSocketImpl.access$300(SSLSocketImpl.java:75)
+	at sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:915)
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137)
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153)
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:282)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:140)
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:57)
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259)
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163)
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:153)
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273)
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125)
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:254)
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:195)
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:86)
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:108)
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:184)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:82)
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:57)
+	at org.springframework.http.client.HttpComponentsClientHttpRequest.executeInternal(HttpComponentsClientHttpRequest.java:91)
+	at org.springframework.http.client.AbstractBufferingClientHttpRequest.executeInternal(AbstractBufferingClientHttpRequest.java:48)
+	at org.springframework.http.client.AbstractClientHttpRequest.execute(AbstractClientHttpRequest.java:53)
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:596)
+	... 47 more
+2024-02-26 11:37:24,759 [INFO ] [KycRequestProcessorASA.java:592] - Error returned in Class Name:KycRequestProcessor Method Name: errorResponse:--Txn:--UKC:052694a1-8c48-4bab-9fb9-6ed9bb1e72ff--ErrorCode:--ASA-C-012--ErrorCode:--SOCKET_TIMEOUT_UIDAI
+2024-02-26 11:49:03,761 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:f6f7e8d7-c8ae-4a20-a4b6-e188016e918e
+2024-02-26 11:49:03,764 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:49:04,107 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:f6f7e8d7-c8ae-4a20-a4b6-e188016e918eStatus:yErrorCode:null
+2024-02-26 11:57:39,595 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:7edc2d6d-102c-4e3b-89f6-ea1f6e4bd5fe
+2024-02-26 11:57:39,598 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 11:57:39,811 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:7edc2d6d-102c-4e3b-89f6-ea1f6e4bd5feStatus:yErrorCode:null
+2024-02-26 12:31:49,603 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:e61356a5-7c40-499f-99e1-1fd3de5ab904
+2024-02-26 12:31:49,606 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:31:49,706 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:e61356a5-7c40-499f-99e1-1fd3de5ab904Status:yErrorCode:null
+2024-02-26 12:40:37,635 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:bf8a132b-ba29-4a15-aeb2-69545e55566f
+2024-02-26 12:40:37,638 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:40:37,751 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:bf8a132b-ba29-4a15-aeb2-69545e55566fStatus:yErrorCode:null
+2024-02-26 12:41:12,618 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:2444803c-43f6-4af0-8805-de4c01914020
+2024-02-26 12:41:12,620 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:41:12,727 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:2444803c-43f6-4af0-8805-de4c01914020Status:yErrorCode:null
+2024-02-26 12:43:13,502 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:493e0bec-76f7-40ca-a012-4ac9ab5576cc
+2024-02-26 12:43:13,506 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:43:14,023 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:493e0bec-76f7-40ca-a012-4ac9ab5576cc--Status:--Y--ErrorCode:--null
+2024-02-26 12:51:55,805 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:b90ebc7b-d970-4882-a57b-c19193f8250d
+2024-02-26 12:51:55,808 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:51:55,913 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:b90ebc7b-d970-4882-a57b-c19193f8250dStatus:yErrorCode:null
+2024-02-26 12:53:10,794 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:b418ba28-a0e4-4970-807a-72f585cc8d41
+2024-02-26 12:53:10,796 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:53:13,381 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:b418ba28-a0e4-4970-807a-72f585cc8d41Status:yErrorCode:null
+2024-02-26 12:53:29,547 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:b418ba28-a0e4-4970-807a-72f585cc8d41
+2024-02-26 12:53:29,551 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:53:29,996 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:b418ba28-a0e4-4970-807a-72f585cc8d41--Status:--Y--ErrorCode:--null
+2024-02-26 12:54:37,536 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:cc2f98a6-810a-419f-adbf-9d6222cd37dc
+2024-02-26 12:54:37,538 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:54:37,788 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:cc2f98a6-810a-419f-adbf-9d6222cd37dcStatus:yErrorCode:null
+2024-02-26 12:59:19,933 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:689a8f32-2c12-4139-b92b-389b6e311b6f
+2024-02-26 12:59:19,935 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:59:20,154 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:689a8f32-2c12-4139-b92b-389b6e311b6fStatus:yErrorCode:null
+2024-02-26 12:59:41,033 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:c1128471-cc77-42cf-9d23-388159f1364e
+2024-02-26 12:59:41,073 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 12:59:41,306 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:c1128471-cc77-42cf-9d23-388159f1364eStatus:yErrorCode:null
+2024-02-26 13:00:29,821 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:6d040e64-9196-4a5f-b4ab-aa5c218cd8fc
+2024-02-26 13:00:29,823 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 13:00:30,054 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:6d040e64-9196-4a5f-b4ab-aa5c218cd8fcStatus:yErrorCode:null
+2024-02-26 13:01:56,100 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:24ba8735-438b-45e8-87c0-edd0f5dbc7f0
+2024-02-26 13:01:56,102 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 13:01:56,218 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:24ba8735-438b-45e8-87c0-edd0f5dbc7f0Status:yErrorCode:null
+2024-02-26 13:02:04,699 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:24ba8735-438b-45e8-87c0-edd0f5dbc7f0
+2024-02-26 13:02:04,702 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 13:02:05,569 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:24ba8735-438b-45e8-87c0-edd0f5dbc7f0--Status:--Y--ErrorCode:--null
+2024-02-26 13:08:26,430 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:e769795e-1461-4ad9-bb98-4f6dd0af0e49
+2024-02-26 13:08:26,432 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 13:08:26,754 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:e769795e-1461-4ad9-bb98-4f6dd0af0e49Status:yErrorCode:null
+2024-02-26 13:20:45,029 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:4ec6b1fb-e577-4529-af9b-59b92a49909f
+2024-02-26 13:20:45,031 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 13:20:45,132 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:4ec6b1fb-e577-4529-af9b-59b92a49909fStatus:yErrorCode:null
+2024-02-26 13:21:14,626 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:4ec6b1fb-e577-4529-af9b-59b92a49909f
+2024-02-26 13:21:14,629 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 13:21:15,380 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:4ec6b1fb-e577-4529-af9b-59b92a49909f--Status:--Y--ErrorCode:--null
+2024-02-26 14:23:26,021 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:77bed8e1-cf1d-4346-8a12-718796e8794c
+2024-02-26 14:23:26,024 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 14:23:26,337 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:77bed8e1-cf1d-4346-8a12-718796e8794cStatus:yErrorCode:null
+2024-02-26 14:24:32,390 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:c1501333-17f1-46f3-a03f-23ad865beb1c
+2024-02-26 14:24:32,393 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 14:24:32,513 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:c1501333-17f1-46f3-a03f-23ad865beb1cStatus:yErrorCode:null
+2024-02-26 15:06:05,079 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:9798133a-9f78-4ffb-bebb-e541e13737cb
+2024-02-26 15:06:05,082 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:06:05,758 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:9798133a-9f78-4ffb-bebb-e541e13737cbStatus:yErrorCode:null
+2024-02-26 15:21:57,263 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:74121e43-2af8-4440-ba88-0a8c8f8af8f2
+2024-02-26 15:21:57,265 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:21:57,478 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:74121e43-2af8-4440-ba88-0a8c8f8af8f2Status:yErrorCode:null
+2024-02-26 15:21:57,968 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:829fcbb6-4a4c-4d4c-808f-3219e0cdd102
+2024-02-26 15:21:57,969 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:21:58,150 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:829fcbb6-4a4c-4d4c-808f-3219e0cdd102Status:yErrorCode:null
+2024-02-26 15:39:29,483 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:70b5d2a1-bc66-43b0-a75c-2d4c7807e1cc
+2024-02-26 15:39:29,485 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:39:29,695 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:70b5d2a1-bc66-43b0-a75c-2d4c7807e1ccStatus:yErrorCode:null
+2024-02-26 15:39:50,757 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:d4157580-bbd6-4f8c-b3b3-fb3f4e8ec1d0
+2024-02-26 15:39:50,759 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:39:50,991 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:d4157580-bbd6-4f8c-b3b3-fb3f4e8ec1d0Status:yErrorCode:null
+2024-02-26 15:40:33,754 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:b895e14d-1c8b-4641-b5bd-e4159b8faae3
+2024-02-26 15:40:33,757 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:40:33,993 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:b895e14d-1c8b-4641-b5bd-e4159b8faae3Status:yErrorCode:null
+2024-02-26 15:47:54,891 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:0571b17a-3e1a-4595-ad85-301427e41620
+2024-02-26 15:47:54,893 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:47:55,766 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:0571b17a-3e1a-4595-ad85-301427e41620Status:yErrorCode:null
+2024-02-26 15:57:32,302 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:0347265a-4cbe-4c39-96b3-223198df8f6f
+2024-02-26 15:57:32,304 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:57:32,524 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:0347265a-4cbe-4c39-96b3-223198df8f6fStatus:yErrorCode:null
+2024-02-26 15:58:42,071 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:621fc5cc-bec5-473e-80be-6172430ced61
+2024-02-26 15:58:42,073 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 15:58:42,293 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:621fc5cc-bec5-473e-80be-6172430ced61Status:yErrorCode:null
+2024-02-26 16:01:55,729 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:9307d911-ab18-4bbf-81fe-cf0f1c4a4d9f
+2024-02-26 16:01:55,731 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 16:01:56,195 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:9307d911-ab18-4bbf-81fe-cf0f1c4a4d9fStatus:nErrorCode:100
+2024-02-26 16:02:10,239 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:9b5ab9be-4719-4914-90bf-6275487bc596
+2024-02-26 16:02:10,241 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 16:02:12,917 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:9b5ab9be-4719-4914-90bf-6275487bc596Status:yErrorCode:null
+2024-02-26 16:02:42,336 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:9b5ab9be-4719-4914-90bf-6275487bc596
+2024-02-26 16:02:42,343 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 16:02:44,052 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:9b5ab9be-4719-4914-90bf-6275487bc596--Status:--Y--ErrorCode:--null
+2024-02-26 16:02:48,680 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:2acc5ebc-0d87-4aa4-9a73-aaa606c4d100
+2024-02-26 16:02:48,682 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 16:02:48,897 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:2acc5ebc-0d87-4aa4-9a73-aaa606c4d100Status:yErrorCode:null
+2024-02-26 16:04:33,849 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:ba5e1659-7b0e-46a7-9503-04fa04fe7cae
+2024-02-26 16:04:33,851 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 16:04:33,978 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:ba5e1659-7b0e-46a7-9503-04fa04fe7caeStatus:yErrorCode:null
+2024-02-26 16:07:18,309 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:5a99ca7d-51f9-448c-ab94-e9b3c7e7fd18
+2024-02-26 16:07:18,360 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 16:07:18,475 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:5a99ca7d-51f9-448c-ab94-e9b3c7e7fd18Status:yErrorCode:null
+2024-02-26 16:07:43,372 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:5a99ca7d-51f9-448c-ab94-e9b3c7e7fd18
+2024-02-26 16:07:43,375 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 16:07:44,030 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:5a99ca7d-51f9-448c-ab94-e9b3c7e7fd18--Status:--Y--ErrorCode:--null
+2024-02-26 16:21:25,592 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:6465be96-2a73-4dda-9fd8-e0276374f60b
+2024-02-26 16:21:25,594 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 16:21:25,709 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:6465be96-2a73-4dda-9fd8-e0276374f60bStatus:yErrorCode:null
+2024-02-26 17:02:04,269 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:f177b472-bcc2-456b-abe7-812067fb6fad
+2024-02-26 17:02:04,280 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 17:02:04,502 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:f177b472-bcc2-456b-abe7-812067fb6fadStatus:yErrorCode:null
+2024-02-26 17:28:00,977 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:5034961f-ec05-4e20-81fa-d01866a457a9
+2024-02-26 17:28:00,980 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 17:28:01,207 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:5034961f-ec05-4e20-81fa-d01866a457a9Status:yErrorCode:null
+2024-02-26 17:40:04,836 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:b1bcf9e0-bd26-41e5-a323-d8278fa8bc0c
+2024-02-26 17:40:04,839 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 17:40:05,064 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:b1bcf9e0-bd26-41e5-a323-d8278fa8bc0cStatus:yErrorCode:null
+2024-02-26 17:45:25,600 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:535872e4-253d-46af-a840-e6f770ac3165
+2024-02-26 17:45:25,602 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 17:45:25,716 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:535872e4-253d-46af-a840-e6f770ac3165Status:yErrorCode:null
+2024-02-26 17:45:53,098 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:535872e4-253d-46af-a840-e6f770ac3165
+2024-02-26 17:45:53,102 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 17:45:53,562 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:535872e4-253d-46af-a840-e6f770ac3165--Status:--Y--ErrorCode:--null
+2024-02-26 17:47:47,209 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:3551ed0c-f704-4af1-9e4f-bc6bf8603a51
+2024-02-26 17:47:47,211 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 17:47:47,442 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:3551ed0c-f704-4af1-9e4f-bc6bf8603a51Status:yErrorCode:null
+2024-02-26 17:50:14,506 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:62a0e23c-41a2-463c-a424-5f58828ea2ed
+2024-02-26 17:50:14,507 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 17:50:14,728 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:62a0e23c-41a2-463c-a424-5f58828ea2edStatus:yErrorCode:null
+2024-02-26 18:28:39,408 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:a1bab5cb-a183-4786-b18c-40bf422fbd8b
+2024-02-26 18:28:39,411 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 18:28:39,637 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:a1bab5cb-a183-4786-b18c-40bf422fbd8bStatus:yErrorCode:null
+2024-02-26 18:28:55,506 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:53544522-f8b0-41a8-b992-9267e26377df
+2024-02-26 18:28:55,508 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 18:28:55,701 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:53544522-f8b0-41a8-b992-9267e26377dfStatus:yErrorCode:null
+2024-02-26 18:38:30,740 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:661a3acb-4e4a-494c-958c-0a9845890d65
+2024-02-26 18:38:30,742 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 18:38:30,964 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:661a3acb-4e4a-494c-958c-0a9845890d65Status:yErrorCode:null
+2024-02-26 18:39:08,135 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:4ea14e11-63d1-4537-96d8-1cece8d2d2a8
+2024-02-26 18:39:08,137 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 18:39:08,361 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:4ea14e11-63d1-4537-96d8-1cece8d2d2a8Status:yErrorCode:null
+2024-02-26 18:39:19,821 [INFO ] [AuthRequestProcessorASA.java:235] - Schema Name in Class Name:AuthRequestProcessor Method Name:persisRequest for AC Code:KRDHASA001SchemaName:dept_asaTxn:32ec4ef6-b01f-48d3-825c-74bbacdfe269
+2024-02-26 18:39:19,823 [INFO ] [AuthRequestProcessorASA.java:312] - Class Name:AuthRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 18:39:20,014 [INFO ] [AuthRequestProcessorASA.java:448] - Auth Response returned from ASA for Transaction ID:32ec4ef6-b01f-48d3-825c-74bbacdfe269Status:yErrorCode:null
+2024-02-26 21:09:56,092 [INFO ] [OtpRequestProcessorASA.java:233] - Get Schema Name in Class Name:OtpRequestProcessor Method Name:persisRequest AC Code:KRDHASA001--SchemaName:dept_asaTxn:e2303ffa-6bce-4d9d-ac0e-42c6cad69219
+2024-02-26 21:09:56,094 [INFO ] [OtpRequestProcessorASA.java:314] - Class Name:OtpRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 21:09:56,298 [INFO ] [OtpRequestProcessorASA.java:509] - OTP Response returned from ASA for Transaction ID:e2303ffa-6bce-4d9d-ac0e-42c6cad69219Status:yErrorCode:null
+2024-02-26 21:10:13,424 [INFO ] [KycRequestProcessorASA.java:327] - Get Schema Name in Class Name:KycRequestProcessor Method Name:persisRequest for AC Code:--KRDHASA001--SchemaName:--dept_asa--Txn:--UKC:e2303ffa-6bce-4d9d-ac0e-42c6cad69219
+2024-02-26 21:10:13,428 [INFO ] [KycRequestProcessorASA.java:420] - Class Name:KycRequestProcessor Method Name:verifyAUA, AUA verified
+2024-02-26 21:10:13,926 [INFO ] [KycRequestProcessorASA.java:551] - KYC Response returned from UIDAI for Transaction ID:--UKC:e2303ffa-6bce-4d9d-ac0e-42c6cad69219--Status:--Y--ErrorCode:--null
